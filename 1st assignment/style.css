@@ -1,0 +1,73 @@
+.my_menu{
+    position: absolute;
+    width: 100%;
+    height: auto;
+    background-color: green;
+}
+
+.menu li{
+  list-style: none;
+  width: 160px;
+  height: 60px;
+  background-color: #2196f3;
+  margin-left: 40px;
+  text-align: center;
+  line-height: 60px;
+  float:left;
+}
+.menu li a{
+    color: white;
+    display: block;
+    text-decoration: none;
+  }
+  .logo{
+    width: 120px;
+  }
+
+  .menu ul li{
+   margin: 0px;
+  }
+  .menu ul{
+    display: none;
+  }
+  
+  
+  
+  .div_section1{
+    width: 20%;
+    height: 300px;
+    margin: 30px;
+    float: left;
+  }
+  
+  
+
+}
+.div_section2 img{
+    width: 100%;
+}
+/*footer*/
+.footer{
+    width: 100%;
+    height: 200px;
+    background-color: black;
+
+}
+.footer_div{
+    width: 20%;
+    height: auto;
+    margin: 30px;
+    float: left;
+}
+.footer_div h1{
+    text-align: center;
+    color: white;
+}
+.footer_div p{
+    color: white;
+}
+.footer_div button{
+    width: 60px;
+    height: 50px;
+}
+
